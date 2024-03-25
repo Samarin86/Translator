@@ -1,6 +1,0 @@
-Date - Дата
-External - Внешний
-Main - Основной
-Scores - Баллы
-Total - Общий
-Value - Ценить
